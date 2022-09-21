@@ -24,17 +24,17 @@
 </a>
   
 <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
-  <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> 
+</a>
+  
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/250px-Arduino_Logo_Registered.svg.png" alt="Arduino" width="40" height="40"/> 
+</a>
+  
+<a href="https://es.wikipedia.org/wiki/Bash" target="_blank"> 
+  <img src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" alt="react" width="40" height="40"/> 
 </a>
   
 <a href="https://www.vim.org" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png" align="" alt="Vim" height="40px"/>
-</a> 
-  
-<a href="https://es.wikipedia.org/wiki/Bash" target="_blank"> 
-  <img src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" alt="react" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/250px-Arduino_Logo_Registered.svg.png" alt="Arduino" width="40" height="40"/> 
 
 </p>
