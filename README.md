@@ -27,8 +27,6 @@
 </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/250px-Arduino_Logo_Registered.svg.png" alt="Arduino" width="40" height="40"/> 
 </a>
-<a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/128px-The_C_Programming_Language_logo.svg.png" alt="C" width="40" height="40"/> 
-</a>
 <a href="https://www.vim.org" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png" align="" alt="Vim" height="40px"/>
 </p>
