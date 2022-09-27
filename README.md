@@ -1,6 +1,7 @@
 <p align="left"></p>
 
-
+### Most used languages
+![Ciborgland Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciborgland&theme=react&layout=compact&hide=HTML)
 
 <h3 align="left">Languages and Tools:</h3>
 
